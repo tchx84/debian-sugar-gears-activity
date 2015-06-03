@@ -1,0 +1,5 @@
+sugar-gears-activity (6.1-0tch1) trusty; urgency=low
+
+  * Initial release for Debian.
+
+ -- Martin Abente Lahaye <tch@sugarlabs.org>  Wed, 3 Jun 2015 10:28:52 -0400
