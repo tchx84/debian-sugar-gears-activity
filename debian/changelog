@@ -1,3 +1,9 @@
+sugar-gears-activity (6.2-1~0tch1) trusty; urgency=medium
+
+  * Removed unnecessary webkit dependency.
+
+ -- Martin Abente Lahaye <tch@sugarlabs.org>  Tue, 21 Jul 2015 10:01:22 -0400
+
 sugar-gears-activity (6.2-0~tch1) trusty; urgency=medium
 
   * fix release 6.2.
